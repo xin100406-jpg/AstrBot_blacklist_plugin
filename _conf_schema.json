@@ -1,0 +1,13 @@
+{
+  "blocked_ids": {
+    "description": "黑名单 QQ 号列表",
+    "type": "list",
+    "default": [],
+    "hint": "列表内 QQ 号发来的消息(私聊/群聊)会被直接拦截,不进入上下文,也不触发回复。"
+  },
+  "log_blocked": {
+    "description": "拦截时记录日志",
+    "type": "bool",
+    "default": true
+  }
+}

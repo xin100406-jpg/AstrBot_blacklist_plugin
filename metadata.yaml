@@ -1,0 +1,4 @@
+name: astrbot_plugin_blocklist
+desc: 按 QQ 号拦截消息(私聊+群聊),不进入上下文也不触发回复
+author: 神楽佑
+version: 1.0.0
